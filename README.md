@@ -364,6 +364,7 @@ zone "loot.it08.com" {
 service bind9 restart
 service bind9 stop
 ```
+![7 1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/65f3b4ce-6af9-4891-9835-0c02d75a09f8)
 **Georgopol**
 ```
 echo 'zone "airdrop.it08.com" {
@@ -388,14 +389,20 @@ zone "loot.it08.com" {
 ping airdrop.it08.com
 ping www.airdrop.it08.com
 ```
+**Result**
+![7 2](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/52c878f2-effb-44f7-9245-a37659dc08e3)
 ```
 ping redzone.it08.com
 ping www.redzone.it08.com
 ```
+**Result**
+![7 3](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/bc8a45d6-4436-482f-9d1b-a45815234a11)
 ```
 ping loot.it08.com
 ping www.loot.it08.com
 ```
+**Result**
+![7 4](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/9944a2a7-84ca-45a8-893c-9a67d60016f3)
 ---
 
 ### Nomor 8
@@ -426,6 +433,8 @@ medkit  IN      A       192.237.2.4     ; IP Lipovka
 ```
 ping medkit.airdrop.it08.com
 ```
+**Result**
+![8](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/5e5c3347-04c9-402d-8b7b-0409e6605016)
 ---
 
 ### Nomor 9
@@ -500,6 +509,8 @@ service bind9 restart
 ping siren.redzone.it08.com
 ping www.siren.redzone.it08.com
 ```
+**Result**
+![9](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/d24e86c7-ace2-45a6-9428-c7e8d7034e98)
 ---
 
 ### Nomor 10
@@ -534,6 +545,8 @@ service bind9 restart
 ping log.siren.redzone.it08.com
 ping www.log.siren.redzone.it08.com
 ```
+**Result**
+![10](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/e2147477-9135-4a5c-bbae-a1a084f08b7e)
 ---
 
 ### Nomor 11
