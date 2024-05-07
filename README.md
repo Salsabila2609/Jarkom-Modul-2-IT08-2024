@@ -403,6 +403,7 @@ ping www.loot.it08.com
 ```
 **Result**
 ![7 4](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/9944a2a7-84ca-45a8-893c-9a67d60016f3)
+
 ---
 
 ### Nomor 8
@@ -435,6 +436,7 @@ ping medkit.airdrop.it08.com
 ```
 **Result**
 ![8](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/5e5c3347-04c9-402d-8b7b-0409e6605016)
+
 ---
 
 ### Nomor 9
@@ -511,6 +513,7 @@ ping www.siren.redzone.it08.com
 ```
 **Result**
 ![9](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/d24e86c7-ace2-45a6-9428-c7e8d7034e98)
+
 ---
 
 ### Nomor 10
@@ -547,6 +550,7 @@ ping www.log.siren.redzone.it08.com
 ```
 **Result**
 ![10](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/e2147477-9135-4a5c-bbae-a1a084f08b7e)
+
 ---
 
 ### Nomor 11
