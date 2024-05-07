@@ -156,9 +156,9 @@
 ping google.com
 ```
 **Result**
-![Screenshot 2024-05-06 051406](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/ffdb4fa8-ce55-45e3-ac9d-a5f2f46b3998)
+![1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/2e1bdbf0-0f0b-4b52-aac4-1f510c6e96e8)
 
-![Screenshot 2024-05-06 051222](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/2fa061fe-52ef-4627-83e4-ed7c76e68ca8)
+![1 1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/ed3ada31-a41d-4733-b5fc-ff2e7e82ac21)
 ---
 
 ### Soal 2
@@ -279,19 +279,19 @@ ping airdrop.it08.com
 ping www.airdrop.it08.com
 ```
 **Result**
-![Screenshot 2024-05-06 050902](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/5909f1b5-fefd-4226-8f25-87d702ce7cbc)
+![2](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/d5e4b3a8-1e31-4c41-91f4-2ed45c04fc1d)
 ```
 ping redzone.it08.com
 ping www.redzone.it08.com
 ```
 **Result**
-![Screenshot 2024-05-06 052344](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/720274f0-388d-4283-9da0-1e4071337629)
+![3](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/0f4885cd-2a8c-4926-a115-cce300a6ad7f)
 ```
 ping loot.it08.com
 ping www.loot.it08.com
 ```
 **Result**
-![Screenshot 2024-05-06 051935](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/78d2bd04-53f1-4365-8600-444daa4d5e0f)
+![4](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/30a17681-9ef5-446b-853e-7e76ba890e17)
 ---
 
 ### Soal 6
@@ -329,7 +329,8 @@ service bind9 restart
 host -t PTR 192.237.2.3
 ```
 **Result**
-![Screenshot 2024-05-06 051811](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/5b56759c-e72b-40b9-819f-bcbb77386e44)
+![6](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/591a509b-16d8-43c2-a78e-d1070587097e)
+
 ---
 
 ### Soal 7
