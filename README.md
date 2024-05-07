@@ -155,6 +155,10 @@
 ```
 ping google.com
 ```
+**Result**
+![Screenshot 2024-05-06 051406](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/ffdb4fa8-ce55-45e3-ac9d-a5f2f46b3998)
+
+![Screenshot 2024-05-06 051222](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/2fa061fe-52ef-4627-83e4-ed7c76e68ca8)
 ---
 
 ### Soal 2
@@ -274,14 +278,20 @@ service bind9 restart
 ping airdrop.it08.com
 ping www.airdrop.it08.com
 ```
+**Result**
+![Screenshot 2024-05-06 050902](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/5909f1b5-fefd-4226-8f25-87d702ce7cbc)
 ```
 ping redzone.it08.com
 ping www.redzone.it08.com
 ```
+**Result**
+![Screenshot 2024-05-06 052344](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/720274f0-388d-4283-9da0-1e4071337629)
 ```
 ping loot.it08.com
 ping www.loot.it08.com
 ```
+**Result**
+![Screenshot 2024-05-06 051935](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/78d2bd04-53f1-4365-8600-444daa4d5e0f)
 ---
 
 ### Soal 6
@@ -318,6 +328,8 @@ service bind9 restart
 ```
 host -t PTR 192.237.2.3
 ```
+**Result**
+![Screenshot 2024-05-06 051811](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/5b56759c-e72b-40b9-819f-bcbb77386e44)
 ---
 
 ### Soal 7
