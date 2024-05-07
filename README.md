@@ -159,6 +159,8 @@ ping google.com
 ![1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/2e1bdbf0-0f0b-4b52-aac4-1f510c6e96e8)
 
 ![1 1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/ed3ada31-a41d-4733-b5fc-ff2e7e82ac21)
+
+
 ---
 
 ### Soal 2
@@ -292,6 +294,7 @@ ping www.loot.it08.com
 ```
 **Result**
 ![4](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/30a17681-9ef5-446b-853e-7e76ba890e17)
+
 ---
 
 ### Soal 6
