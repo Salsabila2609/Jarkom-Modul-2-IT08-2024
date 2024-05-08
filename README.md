@@ -578,6 +578,9 @@ service bind9 restart
 ```
 ping google.com
 ```
+**Result**
+![11](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/b894466a-7980-41ed-b634-7021e8a181c5)
+
 ---
 
 ### Nomor 12
@@ -604,6 +607,9 @@ service apache2 start
 ```
 lynx http://192.237.2.3
 ```
+**Result**
+![12](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/5729a38b-39b4-4457-a307-bc869d929d21)
+
 ---
 
 ### Nomor 13
@@ -663,6 +669,11 @@ lynx http://192.173.2.3
 lynx http://192.173.2.4
 lynx http://192.173.2.5
 ```
+**Result**
+![13-1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/fbea6d18-9cf8-41e1-b07e-f1be220eaeba)
+![13-2](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/579400c0-2f41-4144-bc7a-72db4f31dead)
+![13-3](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/955e9716-f67a-4e84-8a88-6469fe5c2f26)
+
 ---
 
 ### Nomor 14
@@ -733,6 +744,11 @@ lynx http://192.173.2.3
 lynx http://192.173.2.4
 lynx http://192.173.2.5
 ```
+**Result**
+![14-1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/94479a71-076e-45f0-b673-fd0657befd5c)
+![14-2](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/c0d46414-3e88-4523-b057-22e567db654b)
+![14-3](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/d75bdaa9-d6ae-49f7-ac8e-5b916d739362)
+
 ---
 
 ### Nomor 15
@@ -747,6 +763,11 @@ lynx http://192.173.2.5
 ```
 ab -n 1000 -c 100 http://192.237.2.5/
 ```
+**Result**
+![15-2](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/16616883-022b-4919-8059-94e01e3dc4af)
+![15-1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/2c6e67b9-011f-46b8-a806-f5a9093d2e7d)
+![15-3](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/4c383fcf-dfba-4201-8a87-c192df9893ae)
+
 ---
 
 ### Nomor 16
@@ -810,6 +831,11 @@ service nginx restart
 lynx http://mylta.it08.com
 lynx http://www.mylta.it08.com
 ```
+**Result**
+![16-2](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/cf25e1ca-11ae-48a6-82ec-5c4e3f9b2ecf)
+![16-1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/e3610e2f-7d33-4fb3-bfae-bc6b9efc8716)
+![16-3](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/fbb1e1d5-baf1-4da1-a260-4312eacd1e0c)
+
 ---
 
 ### Nomor 17
@@ -844,6 +870,10 @@ lynx http://www.mylta.it08.com:14000
 lynx http://mylta.it08.com:14400
 lynx http://www.mylta.it08.com:14400
 ```
+**Result**
+![17-1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/56c3d73a-fde7-4a10-9d1e-5e1303bc436f)
+![17-2](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/07783ac7-45f4-49d0-a3fa-4abad19a5ea1)
+
 ---
 
 ### Nomor 18
@@ -878,6 +908,9 @@ service nginx restart
 ```
 lynx http://192.237.2.5:14000
 ```
+**Result**
+![18](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/211fa4eb-7609-4c0e-a96a-b74f1505ab41)
+
 ---
 
 
