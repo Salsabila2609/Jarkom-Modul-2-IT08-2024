@@ -375,12 +375,11 @@ apt-get install apache2 -y
 apt-get install php -y
 apt-get install unzip -y
 
-wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=11S6CzcvLG-dB0ws1yp494IURnDvtIO$wget --no-check-certificate 'https://docs.google.com/uc?export=download&id=1xn03kTB27K872cokqwEIlk8Zb121Hn$
-unzip dir-listing.zip -d dir-listing
-unzip lb.zip -d lb
+curl -L -o lb.zip --insecure "https://drive.google.com/uc?export=download&id=1xn03kTB27K872cokqwEIlk8Zb121HnfB"
 
+unzip lb.zip
 rm /var/www/html/index.html
-cp /root/lb/worker/index.php /var/www/html/index.php
+cp worker/index.php /var/www/html/index.php
 apt-get install libapache2-mod-php7.0
 
 # service apache2 start
