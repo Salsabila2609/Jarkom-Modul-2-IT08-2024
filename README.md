@@ -8,6 +8,8 @@
 ## Laporan Resmi Modul 2
 
 ### Topologi
+![image](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/42f2ec46-8287-4a13-9c47-739e3dd0e005)
+
 ---
 ### Config
 - Erangel
