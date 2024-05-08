@@ -764,9 +764,15 @@ lynx http://192.173.2.5
 ab -n 1000 -c 100 http://192.237.2.5/
 ```
 **Result**
-![15-2](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/16616883-022b-4919-8059-94e01e3dc4af)
-![15-1](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/2c6e67b9-011f-46b8-a806-f5a9093d2e7d)
-![15-3](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/4c383fcf-dfba-4201-8a87-c192df9893ae)
+1. Apache
+![15-1 (3)](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/9c96d3f4-d5e4-4af6-805e-dcadcb8e66dc)
+![15-2 (3)](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/e3417db3-a40d-487b-9ffb-341f5bfaaae3)
+![15-3 (3)](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/b73a1e42-a218-4fc1-9069-602e900e8f0a)
+
+2. Nginx
+![15-4](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/8e5543a7-9f26-4f54-a05a-3fb08cfcf9a2)
+![15-5](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/5a60abfd-f3a2-4f9b-9049-edbb6ab4b3e4)
+![15-6](https://github.com/Salsabila2609/Jarkom-Modul-2-IT08-2024/assets/128382995/b1a448c1-d989-4295-a912-a31c47c5a6ae)
 
 ---
 
